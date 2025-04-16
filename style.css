@@ -1,0 +1,36 @@
+*{
+    background-color: blueviolet;
+}
+
+.home-content{
+    color: white;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#about{
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.button{
+    background-color: blue; 
+  color: white;              
+  padding: 10px 20px;        
+  border: none;             
+  border-radius: 5px;      
+  cursor: pointer;   
+  font-size: 16px; 
+}
+
+#title{
+    font-weight: 800;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#html{
+    color: white;
+    font-style: italic
+}
